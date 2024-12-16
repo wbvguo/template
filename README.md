@@ -58,7 +58,7 @@ Personal folder template for computational projects. Folder names are **uncapita
 <!-- processed -->
 <details>
 <summary>
-<code>processed</code>: processed data
+<code>processed</code>: processed data and script for processing
 </summary>
 <ul>
     <li><code>bam</code></li>
@@ -68,6 +68,7 @@ Personal folder template for computational projects. Folder names are **uncapita
     <li><code>idx</code></li>
     <li><code>reads</code></li>
     <li><code>ref</code></li>
+    <li><code>script</code></li>
     <li><code>vcf</code></li>
     <li><code>README.md</code>: log the processing pipeline, reference genome, etc.</li>
 </ul>
@@ -78,14 +79,6 @@ Personal folder template for computational projects. Folder names are **uncapita
 <details>
 <summary>
 <code>raw_data</code>: raw data
-</summary>
-</details>
-
-
-<!-- script -->
-<details>
-<summary>
-<code>script</code>: script for data processing
 </summary>
 </details>
 
