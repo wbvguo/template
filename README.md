@@ -12,11 +12,10 @@ Personal folder template for computational projects. Folder names are **uncapita
 <!-- code -->
 <details>
 <summary>
-<code>code</code>: code modules for data processing
+<code>code</code>: code modules or tools for data processing
 </summary>
 <ul>
-    <li><code>script</code>:  scripts for data processing</li>
-    <li><code>TOOLS</code>: other downloaded tools or pipelines</li>
+    <li><code>TOOLS</code>: downloaded tools or pipelines</li>
 </ul>
 </details>
 
@@ -34,8 +33,11 @@ Personal folder template for computational projects. Folder names are **uncapita
     <li><code>expr</code></li>
     <li><code>meth</code></li>
     <li><code>meta</code></li>
-    <li><code>simu</code></li>
+    <li><code>rds</code></li>
     <li><code>save</code></li>
+    <li><code>simu</code></li>
+    <li><code>snp</code></li>
+    <li><code>test</code></li>
 </ul>
 </details>
 
@@ -48,6 +50,7 @@ Personal folder template for computational projects. Folder names are **uncapita
 <ul>
     <li><code>plot</code>: PNG, PDF files</li>
     <li><code>vignette</code>: tutorials</li>
+    <li>...</li>
 </ul>
 </details>
 
@@ -75,6 +78,14 @@ Personal folder template for computational projects. Folder names are **uncapita
 <details>
 <summary>
 <code>raw_data</code>: raw data
+</summary>
+</details>
+
+
+<!-- script -->
+<details>
+<summary>
+<code>script</code>: script for data processing
 </summary>
 </details>
 
